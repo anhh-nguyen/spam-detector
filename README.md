@@ -23,6 +23,7 @@ Run the following commands to install dependencies
 pip3 install wheel
 pip3 install pandas
 pip3 install -U scikit-learn
+python3 src.py
 ```
 
 
